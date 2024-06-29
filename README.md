@@ -6,16 +6,14 @@ both Windows and macOS environments.
 # Prerequisites
 ```
 1. Ensure your system specs meets minimum requriement to run a node server.
-2. Node.js and npm (or yarn): Download and install the latest stable version of Node.js from 
-the official website (https://nodejs.org/). This installation typically includes npm, the 
-Node Package Manager. Alternatively, you can use a package manager like yarn for dependency management.
+2. Node.js and npm (or yarn): Download and install the latest stable version of Node.js from the 
+official website (https://nodejs.org/). This installation typically includes npm, the Node Package Manager. Alternatively, you can use a package manager like yarn for dependency management.
 3. install any desired IDE of your choice; VSCode, Sublime, etc.
 ```
 
 ## Project Setup
 ```
-1. Clone project from GIT to your desired local directory 
-"git clone https://github.com/nuelnike/quidax.git"
+1. Clone project from GIT to your desired local directory "git clone https://github.com/nuelnike/quidax.git"
 2. Run your CMD/CLI
 3. Navigate into directory on cli "cd c:/users/path to cloned project"
 4. Install node dependencies "npm install"
