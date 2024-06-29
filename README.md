@@ -7,7 +7,7 @@ both Windows and macOS environments.
 ```
 1. Ensure your system specs meets minimum requriement to run a node server.
 2. Node.js and npm (or yarn): Download and install the latest stable version of Node.js from the 
-official website (https://nodejs.org/). This installation typically includes npm, the Node Package Manager. Alternatively, you can use a package manager like yarn for dependency management.
+official website (https://nodejs.org/). This installation typically includes npm, the Node Package Manager.
 3. install any desired IDE of your choice; VSCode, Sublime, etc.
 ```
 
