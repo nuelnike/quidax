@@ -24,7 +24,7 @@ official website (https://nodejs.org/). This installation typically includes npm
 
 ### Cypress Test Cases Execusion
 ```
-1. After you start Cypress test runner, complete cypress ontime configuration.
+1. After you start Cypress test runner, complete cypress onetime configuration.
 2. Select E2E Configuration
 3. Select your choiced browser
 4. Wait for Cypress test runner to load up all test scripts "bootstrap_alert", etc.
